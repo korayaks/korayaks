@@ -1,7 +1,8 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=korayaks)
+### Hi 👋 I'm Koray
 
-"
+🌱 I’m currently learning microservices, docker and K8S.
+
+![](https://komarev.com/ghpvc/?username=korayaks)
 <!--
 **korayaks/korayaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
