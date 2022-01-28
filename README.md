@@ -1,4 +1,4 @@
-### Hi 👋 I'm Koray
+### Hi there 👋
 
 🌱 I’m currently learning microservices, docker and K8S.
 
