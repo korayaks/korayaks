@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🌱 I’m currently learning microservices, docker and K8S.
 
 ![](https://komarev.com/ghpvc/?username=korayaks)
 <!--
